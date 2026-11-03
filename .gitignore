@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Ignore .idea files
+/.idea
+
+*.xml
+/.xml
+/.iml
+*DS_store
+pietro*
+sietse*
